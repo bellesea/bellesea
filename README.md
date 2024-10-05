@@ -7,10 +7,10 @@ Hi! I'm Belle, a sophomore CS and Public Policy major at Wellesley College! I lo
 - Helping people make their projects come to life with 
 - Reading [Protecting Soldiers and Mothers: The Political Origins of Social Policy in the United States](https://www.hup.harvard.edu/books/9780674717664) and [The Third Pillar](https://www.penguinrandomhouse.com/books/566369/the-third-pillar-by-raghuram-rajan/)
 
-#### ⚡️ Previously, I took a gap year and...
+#### ⚡️ Previously, I took a gap year with [@hackclub](https://github.com/hackclub) and...
 - Built [hackclub.com](https://hackclub.com)
 - Supported highschoolers with their [electronic project grants](https://hackclub.com/winter)
-- Organized a [few](https://github.com/hackclub/outernet) [hackathons](https://github.com/hackclub/days-of-service)
+- Organized a [few](https://github.com/hackclub/outernet) [hackathons](https://github.com/hackclub/days-of-service) for hundreds of students
 
 #### 🤔 I enjoy thinking about...
 - Why we connect with other people and how :)
