@@ -17,4 +17,4 @@ Hi! I'm Belle, a sophomore CS and Public Policy major at Wellesley College! I lo
 - How processes can be improved
 - Why institutions maintain power
 
-Please reach out to me if you'd like to chat or work together :)
+Please reach out to me at [bs107@wellesley.edu](mailto:bs107@wellesley.edu)if you'd like to chat or work together :)
